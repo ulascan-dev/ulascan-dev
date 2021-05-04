@@ -41,6 +41,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=ulascan-dev&theme=radical&show_icons=true" />
+  
+  [![Spotify]https://novatorem-nu-ruddy.vercel.app/api/spotify](https://open.spotify.com/user/ngkaijgyhxybpa8dj58w5t8ys)
 
 
 
