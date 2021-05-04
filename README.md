@@ -17,6 +17,12 @@
 
 <br />
 
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-nu-ruddy.vercel.app/api/spotify" ulascan-dev Spotify Playing" width="350" />](https://open.spotify.com/user/ngkaijgyhxybpa8dj58w5t8ys)
+
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -42,9 +48,7 @@
 
   <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=ulascan-dev&theme=radical&show_icons=true" />
   
-  [![Spotify]https://novatorem-nu-ruddy.vercel.app/api/spotify](https://open.spotify.com/user/ngkaijgyhxybpa8dj58w5t8ys)
-
-
+  
 
 [website]: https://ulascansenturk.com
 [instagram]: https://instagram.com/ulascansenturk
