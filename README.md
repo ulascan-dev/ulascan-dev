@@ -3,6 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulascansenturk/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ulascan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ulascan-dev" /> </p>
+
 ## I'm a Software Developer, Tech Lover and Human Being !!
 
 - 🌱 I’m currently focusing .Net and Microsoft technologies
@@ -45,7 +47,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=ulascan-dev&theme=radical&show_icons=true" />
+  <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YunusOzdemirr&theme=radical&show_icons=true" />
   
   
 
