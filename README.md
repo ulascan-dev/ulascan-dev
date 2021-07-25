@@ -7,7 +7,7 @@
 
 ## I'm a Software Developer, Tech Lover and Human Being !!
 
-- 🌱 I’m currently focusing .Net and Microsoft technologies
+- 🌱 I’m currently focusing .Net and Linux 
 - 👯 I’m always open to work
 - ⚡ Big fan of Tool & Progressive Music
 
