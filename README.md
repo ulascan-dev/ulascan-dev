@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulascan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ulascan-dev" /> </p>
 
-## I'm a Software Developer, Tech Lover and Human Being !!
+## I'm just a Software Developer and Human Being nothing more...
 
-- 🌱 I’m currently focusing .Net and Linux 
-- 👯 I’m always open to work
-- ⚡ Big fan of Tool & Progressive Music
+- 🌱 I’m currently focusing .Net core and Linux
+
+
 
 
 ### Connect with me:
