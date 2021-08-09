@@ -24,12 +24,9 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-[![ProtonMail](https://img.shields.io/badge/Email%20service-ProtonMail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://protonmail.com/)
-
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![Editor](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Editor](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/ulascan-dev/dotfiles)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,7 +46,7 @@
 
 [![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://ulascansenturk.com)
 
-
+[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/ulascan-dev/dotfiles)
 
 
 <br />
