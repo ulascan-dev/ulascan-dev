@@ -1,4 +1,4 @@
-### Hi there, I'm Ulas - aka [kryptoniten][website] 👋
+### Hi there, I'm Ulas - aka [kernelpanic][website] 👋
 
 
 
