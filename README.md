@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulascan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ulascan-dev" /> </p>
 
-## I'm just a Software Developer and Human Being nothing more...
+## Software Developer
 
-- 🌱 I’m currently focusing .Net core and Linux
+- 🌱 I’m currently working on back-end development with .Net Core, In love with Linux and Learning Solidity
 
 
 
