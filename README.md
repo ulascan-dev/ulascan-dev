@@ -1,4 +1,4 @@
-### Hi there, I'm Ulas - aka [kernelpanic][website] 👋
+### Hi there, I'm Ulas - aka [kernelpanic]👋
 
 
 
@@ -39,7 +39,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulascansenturk/)
 <br>
-[![AskMe](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]
+[![AskMe](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](ulascansenturk@protonmail.com)
 
 <br />
 <br />
@@ -52,7 +52,6 @@
   
   
 
-[website]: https://ulascansenturk.com
 [instagram]: https://instagram.com/ulascansenturk
 [linkedin]: https://linkedin.com/in/ulascansenturk
 [AskMe]: ulascansenturk@protonmail.com
