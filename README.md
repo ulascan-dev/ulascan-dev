@@ -38,7 +38,8 @@
 [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/ulascan-dev/dotfiles)
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulascansenturk/)
-[![AskMe](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+<br>
+[![AskMe](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]
 
 <br />
 <br />
