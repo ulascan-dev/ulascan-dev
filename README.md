@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-nu-ruddy.vercel.app/api/spotify" alt="ulascan-dev Spotify Playing" width="450" />](https://open.spotify.com/user/ngkaijgyhxybpa8dj58w5t8ys)]
+[<img src="https://novatorem-nu-ruddy.vercel.app/api/spotify" alt="ulascan-dev Spotify Playing" width="450" />](https://open.spotify.com/user/ngkaijgyhxybpa8dj58w5t8ys)
 
 
  
