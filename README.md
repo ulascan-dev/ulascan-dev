@@ -46,7 +46,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ulascansenturk&theme=radical&show_icons=true" />
+  <img align="left" alt="kryptoniten's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ulascansenturk&theme=blue-green" />
   
   
 
