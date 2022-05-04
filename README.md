@@ -18,8 +18,7 @@
 [<img src="https://novatorem-nu-ruddy.vercel.app/api/spotify" alt="ulascan-dev Spotify Playing" width="450" />](https://open.spotify.com/user/ngkaijgyhxybpa8dj58w5t8ys)
 
 
-### Stack:
-Testing                    |  Testing2
+### Stack:                    |  
 :-------------------------:|:-------------------------:
 ![Macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)  |  ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
