@@ -6,7 +6,7 @@
 
 ## Software Developer
 
-- 🌱 I’m currently working on back-end development with .Net Core, In love with Linux and Learning Solidity
+- 🌱 I’m currently working on back-end development with Golang, In love with Linux and Learning Solidity
 
 
 
