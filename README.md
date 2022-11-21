@@ -36,8 +36,9 @@ src="https://img.shields.io/github/followers/ulascansenturk?logo=github&style=fo
 <a href="https://kafka.apache.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="36"  width="36"/></a>  
 <a href="https://kubernetes.io/" target="_blank"><img   src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="36"  width="36"/></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img   src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="38" width="36" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img   src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="36"  width="36"/></a>  
-<a href="https://www.linux.org/" target="_blank"><img   src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img   src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="36"  width="36"/></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="36"  width="36" /></a>  
+
 </p>
 
 
