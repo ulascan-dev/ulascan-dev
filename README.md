@@ -9,7 +9,7 @@ func main() {
     "contact": map[string]string{
       "linkedin": "ulascansenturk",
       "email": "ulascansenturk@protonmail.com",
-      "discord": "kernelpanic#4413"
+      "discord": "kernelpanic#4413",
     },
   }
 }
