@@ -1,7 +1,6 @@
 ```go
 package main
 
-import "fmt"
 
 func main() {
 	ulascan_senturk := map[string]interface{}{
