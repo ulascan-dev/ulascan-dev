@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract UlasCanSenturk {
+contract UlascanSenturk {
     struct ContactInfo {
         string linkedin;
         string email;
